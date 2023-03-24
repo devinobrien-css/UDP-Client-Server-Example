@@ -1,4 +1,4 @@
-# TCP-Client-Server-Example
+# UDP-Client-Server-Example
 
 ## Repository Overview
 
